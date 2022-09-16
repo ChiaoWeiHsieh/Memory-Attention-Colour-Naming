@@ -1,2 +1,2 @@
-# Slowdown_on_Colour-Responding
-This is the research project of my master's degree in which the experiement aimed to test selective attention and memory.
+# Memory-Attention-Colour-Naming
+This project was part of my PhD research project in Cognitive Psychology, which the aimed to investigate selective attention and memory.
