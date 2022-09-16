@@ -1,5 +1,5 @@
 # Memory-Attention-Colour-Naming
-This project was part of my PhD research project in Cognitive Psychology, which aimed to investigate selective attention and memory. 
+This project was part of my PhD research project in Cognitive Psychology, which aimed to investigate selective attention and implicit memory. 
 
 Please see the file 'Memory Stroop Colour Naming Task.ipynb' for the content.
 
