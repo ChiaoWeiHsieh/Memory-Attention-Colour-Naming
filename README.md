@@ -1,7 +1,7 @@
 # Memory-Attention-Colour-Naming
 This project was part of my PhD research project in Cognitive Psychology, which aimed to investigate selective attention and implicit memory. 
 
-Currently, there is a display issue of Jupyter Notebook in the Github repository where the output cells are not aligned.
+Currently, there is a display issue of Jupyter Notebook in the Github repository where the output cells are not aligned properly.
 
 So if possible, please download the file 'Memory Stroop Colour Naming Task.ipynb' and check the content locally.
 Alternatively, please download the file 'Memory Stroop Colour Naming Task.html' and open it with a browser.
