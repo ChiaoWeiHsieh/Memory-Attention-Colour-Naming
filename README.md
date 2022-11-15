@@ -3,7 +3,7 @@ This project was part of my PhD research project in Cognitive Psychology, which 
 
 Currently, there is a display issue of Jupyter Notebook in the Github repository where the output cells are not aligned properly.
 
-So if possible, please download the file 'Memory Stroop Colour Naming Task.ipynb' and check the content locally.
+So if possible, please download the file 'Memory Stroop Colour Naming Task.ipynb' and check the content with Jupyter or JupyterLab.
 Alternatively, please download the file 'Memory Stroop Colour Naming Task.html' and open it with a browser.
 
 If any image does not display properly, please re-load the image.
